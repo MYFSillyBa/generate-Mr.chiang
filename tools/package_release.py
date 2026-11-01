@@ -18,7 +18,7 @@ def main():
             raise SystemExit(f'Missing required release file: {path.name}')
     output = ROOT/'releases'/f'v{VERSION}'
     output.mkdir(parents=True, exist_ok=True)
-    standalone = output/f'generate-Mr.chiang-v{VERSION}-windows-x64.exe'
+    standalone = output/'generate-Mr.chiang.exe'
     shutil.copy2(executable, standalone)
     archive = output/f'generate-Mr.chiang-v{VERSION}-windows-x64.zip'
     with zipfile.ZipFile(archive, 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=6) as bundle:

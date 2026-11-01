@@ -2,7 +2,7 @@
 
 讲解石生成器，一个 Windows 原生风格的像素拆解重排程序。
 
-[下载 Windows 便携版 v1.0.0](https://github.com/MYFSillyBa/generate-Mr.chiang/releases/download/v1.0.0/generate-Mr.chiang-v1.0.0-windows-x64.zip) · [所有发布版本](https://github.com/MYFSillyBa/generate-Mr.chiang/releases)
+[下载单文件 generate-Mr.chiang.exe](https://github.com/MYFSillyBa/generate-Mr.chiang/releases/download/v1.0.0/generate-Mr.chiang.exe) · [下载 Windows 便携版 ZIP](https://github.com/MYFSillyBa/generate-Mr.chiang/releases/download/v1.0.0/generate-Mr.chiang-v1.0.0-windows-x64.zip) · [所有发布版本](https://github.com/MYFSillyBa/generate-Mr.chiang/releases)
 
 Windows 原生风格桌面程序。默认目标为用户提供的“讲解师.png”，已内置到程序中。上传原图后点击开始，原图像素会拆开、搬运、重新排列成目标结构。图片只在本机处理，不联网。
 
