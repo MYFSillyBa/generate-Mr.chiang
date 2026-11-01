@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+build/
+dist/
+releases/
+.venv/
+.local-archive/
+*.spec
+*.exe
+smoke-test-error.log
